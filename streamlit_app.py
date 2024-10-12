@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain_core.messages import HumanMessage, AIMessage
+from langchain.schema import HumanMessage, AIMessage
 from dotenv import load_dotenv
 
 load_dotenv()
