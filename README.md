@@ -1,9 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# Smart Feedback System Chatbot
 
-Description of the app ...
+
+The app takes input prompt from customers and replies to them. At the same time another response is generated for the company that indicates which department should deal with the feedback
 
 ## Demo App
 
